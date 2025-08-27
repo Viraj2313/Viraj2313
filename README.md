@@ -5,7 +5,6 @@ Hi there! I'm a B.Tech CSE student passionate about full-stack development, AI/M
 - Authentication: JWT-based authentication<br> 
 - Deployment: Azure & Render (with Docker), Nginx Server<br> 
 - Machine Learning: Exploring AI/ML with Python<br> 
-- SQL & Data Analysis: Querying and analyzing structured data
 
 
 ## Socials:
