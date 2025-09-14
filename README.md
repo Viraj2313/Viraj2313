@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm a B.Tech CSE student passionate about Software Development. I specialize in:<br><br> 
+Hi there! I'm a B.Tech CSE student passionate about Software Development. I specialize in:<br>
 - Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br> 
 - Databases: MySQL with Entity Framework Core<br>
 - Deployment: Azure & Render (with Docker), Nginx Server<br> 
