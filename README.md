@@ -1,11 +1,9 @@
 # About Me:
-Hi there! I'm a B.Tech CSE student passionate about full-stack development, AI/ML, and databases. I specialize in:<br><br> 
+Hi there! I'm a B.Tech CSE student passionate about Software Development. I specialize in:<br><br> 
 - Full-Stack Development: ASP.NET Core (Backend) | React + Vite (Frontend)<br> 
 - Databases: MySQL with Entity Framework Core<br>
-- Authentication: JWT-based authentication<br> 
 - Deployment: Azure & Render (with Docker), Nginx Server<br> 
 - Machine Learning: Exploring AI/ML with Python<br> 
-
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-mahajan-78638b311) 
