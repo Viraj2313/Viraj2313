@@ -1,9 +1,6 @@
 # About Me:
-Hi there! I'm a Tech Enthusiast passionate about Software Development. I specialize in:<br>
-- Full-Stack Development: ASP.NET Core (Backend) | React (Frontend)<br> 
-- Databases: MySQL with Entity Framework Core<br>
-- Deployment: Azure & Render (with Docker), Nginx Server<br> 
-- Machine Learning: Exploring AI/ML with Python<br> 
+Hi there! I'm passionate about building scalable, modern software. I like bringing ideas to life through clean code, thoughtful design, and innovative solutions often exploring how machine learning can enhance real-world applications.
+
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viraj-mahajan-78638b311) 
