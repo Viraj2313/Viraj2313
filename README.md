@@ -18,7 +18,6 @@ Hi there! I'm passionate about building scalable, modern software. I like bringi
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Viraj2313&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj2313&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
